@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profile-finder-v2/static/css/main.6bc88f65.chunk.css",
+    "main.js": "/profile-finder-v2/static/js/main.9ea9047c.chunk.js",
+    "main.js.map": "/profile-finder-v2/static/js/main.9ea9047c.chunk.js.map",
+    "runtime-main.js": "/profile-finder-v2/static/js/runtime-main.af822ce2.js",
+    "runtime-main.js.map": "/profile-finder-v2/static/js/runtime-main.af822ce2.js.map",
+    "static/js/2.b4ee7da0.chunk.js": "/profile-finder-v2/static/js/2.b4ee7da0.chunk.js",
+    "static/js/2.b4ee7da0.chunk.js.map": "/profile-finder-v2/static/js/2.b4ee7da0.chunk.js.map",
+    "static/js/3.f700297b.chunk.js": "/profile-finder-v2/static/js/3.f700297b.chunk.js",
+    "static/js/3.f700297b.chunk.js.map": "/profile-finder-v2/static/js/3.f700297b.chunk.js.map",
+    "index.html": "/profile-finder-v2/index.html",
+    "static/css/main.6bc88f65.chunk.css.map": "/profile-finder-v2/static/css/main.6bc88f65.chunk.css.map",
+    "static/js/2.b4ee7da0.chunk.js.LICENSE.txt": "/profile-finder-v2/static/js/2.b4ee7da0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af822ce2.js",
+    "static/js/2.b4ee7da0.chunk.js",
+    "static/css/main.6bc88f65.chunk.css",
+    "static/js/main.9ea9047c.chunk.js"
+  ]
+}
